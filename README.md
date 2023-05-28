@@ -1,7 +1,7 @@
-# Astro Starter Kit: Basics
+
 ![image](https://github.com/esarmiem/Tesla-Clone-LandingPage/assets/114357859/43aef8be-657d-411d-9016-17f883ea0ac6)
 
-
+# Astro Starter Kit: Basics
 ```
 npm create astro@latest -- --template basics
 ```
